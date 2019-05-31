@@ -2,6 +2,7 @@ Name: Nick Chan
 
 Photo:
 
-Graduating 2021
+Graduating Year: 2021
 
-Project Sub-area: backend software / applications
+Project Sub-Area: Backend Applications preferrably in C++
+
